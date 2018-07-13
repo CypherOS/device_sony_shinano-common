@@ -2,22 +2,31 @@
   {
     "repository":  "device_sony_msm8974-common",
     "target_path": "device/sony/msm8974-common",
-	"remote":      "aoscp"
+    "branch":      "parfait-release",
+    "remote":      "aoscp"
   },
   {
     "repository":  "kernel_sony_msm8974",
     "target_path": "kernel/sony/msm8974",
-	"remote":      "aoscp"
+    "branch":      "parfait-release",
+    "remote":      "aoscp"
+  },
+  {
+    "repository":  "proprietary_vendor_sony",
+    "target_path": "vendor/sony",
+    "branch":      "parfait-release",
+    "remote":      "aoscp"
   },
   {
     "repository":  "hardware_sony_timekeep",
     "target_path": "hardware/sony/timekeep",
-	"remote":      "aoscp"
+    "branch":      "parfait-release",
+    "remote":      "aoscp"
   }, 
   {
     "repository":  "sahulkrishan/packages_apps_ancquicksettings",
     "target_path": "packages/apps/ANCQuickSettings",
-	"remote":      "aoscp",
-    "revision":    "master"
+    "branch":      "parfait-release",
+    "remote":      "github"
   }
 ]
