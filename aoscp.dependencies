@@ -26,7 +26,7 @@
   {
     "repository":  "sahulkrishan/packages_apps_ancquicksettings",
     "target_path": "packages/apps/ANCQuickSettings",
-    "branch":      "parfait-release",
+    "branch":      "master",
     "remote":      "github"
   }
 ]
